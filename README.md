@@ -100,3 +100,5 @@ TIMER_A0->CTL |= 0x0014;
 
 * https://www.sciencedirect.com/topics/engineering/hardware-timer
 * https://www.embeddedrelated.com/glossary/pwm
+* MSP432P4xx SimpleLink™ Microcontrollers
+Technical Reference Manual
